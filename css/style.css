@@ -2,3 +2,8 @@
   background-color: blue;
   overflow: hidden;
 }
+#navbar-contatiner {
+  float: left;
+  width: 100%;
+  position: relative;
+}
